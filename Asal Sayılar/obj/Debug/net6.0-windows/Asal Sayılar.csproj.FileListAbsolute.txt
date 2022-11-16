@@ -1,0 +1,17 @@
+C:\Users\deniz\Desktop\Github Projeleri\Asal Sayılar\Asal Sayılar\bin\Debug\net6.0-windows\Asal Sayılar.exe
+C:\Users\deniz\Desktop\Github Projeleri\Asal Sayılar\Asal Sayılar\bin\Debug\net6.0-windows\Asal Sayılar.deps.json
+C:\Users\deniz\Desktop\Github Projeleri\Asal Sayılar\Asal Sayılar\bin\Debug\net6.0-windows\Asal Sayılar.runtimeconfig.json
+C:\Users\deniz\Desktop\Github Projeleri\Asal Sayılar\Asal Sayılar\bin\Debug\net6.0-windows\Asal Sayılar.dll
+C:\Users\deniz\Desktop\Github Projeleri\Asal Sayılar\Asal Sayılar\bin\Debug\net6.0-windows\Asal Sayılar.pdb
+C:\Users\deniz\Desktop\Github Projeleri\Asal Sayılar\Asal Sayılar\obj\Debug\net6.0-windows\Asal Sayılar.csproj.AssemblyReference.cache
+C:\Users\deniz\Desktop\Github Projeleri\Asal Sayılar\Asal Sayılar\obj\Debug\net6.0-windows\Asal_Sayılar.Form1.resources
+C:\Users\deniz\Desktop\Github Projeleri\Asal Sayılar\Asal Sayılar\obj\Debug\net6.0-windows\Asal Sayılar.csproj.GenerateResource.cache
+C:\Users\deniz\Desktop\Github Projeleri\Asal Sayılar\Asal Sayılar\obj\Debug\net6.0-windows\Asal Sayılar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\Desktop\Github Projeleri\Asal Sayılar\Asal Sayılar\obj\Debug\net6.0-windows\Asal Sayılar.AssemblyInfoInputs.cache
+C:\Users\deniz\Desktop\Github Projeleri\Asal Sayılar\Asal Sayılar\obj\Debug\net6.0-windows\Asal Sayılar.AssemblyInfo.cs
+C:\Users\deniz\Desktop\Github Projeleri\Asal Sayılar\Asal Sayılar\obj\Debug\net6.0-windows\Asal Sayılar.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\Github Projeleri\Asal Sayılar\Asal Sayılar\obj\Debug\net6.0-windows\Asal Sayılar.dll
+C:\Users\deniz\Desktop\Github Projeleri\Asal Sayılar\Asal Sayılar\obj\Debug\net6.0-windows\refint\Asal Sayılar.dll
+C:\Users\deniz\Desktop\Github Projeleri\Asal Sayılar\Asal Sayılar\obj\Debug\net6.0-windows\Asal Sayılar.pdb
+C:\Users\deniz\Desktop\Github Projeleri\Asal Sayılar\Asal Sayılar\obj\Debug\net6.0-windows\Asal Sayılar.genruntimeconfig.cache
+C:\Users\deniz\Desktop\Github Projeleri\Asal Sayılar\Asal Sayılar\obj\Debug\net6.0-windows\ref\Asal Sayılar.dll
